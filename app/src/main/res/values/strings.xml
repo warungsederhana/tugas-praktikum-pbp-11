@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">pertemuan-10</string>
+
+    <string name="content_text">Dari luar dan dalam, Samsung Z Fold4 dibuat dari material yang tidak hanya memukau, tapi juga kokoh dan tahan banting. Terbuat dari kaca dan metal yang tangguh, Galaxy Z Fold4 adalah HP lipat paling tangguh Samsung saat ini.
+    </string>
+
+    <string name="content_specs_display">Resolution (Main Display)\n2176 x 1812 (QXGA+)\n\nTechnology (Main Display)\nDynamic AMOLED 2X\n\nResolution (Sub Display)\n2316 x 904 (HD+)
+    </string>
+    <string name="content_specs_size">Dimension (HxWxD, mm)\n155.1 x 130.1 x 6.3\n\nDimension when folded (HxWxD, mm)\n155.1 x 67.1 x 15.8-14.2\n\nWeight (g)\n263
+    </string>
+    <string name="content_specs_battery">Internet Usage Time(LTE) (Hours)\nUp to 16\n\nVideo Playback Time (Hours, Wireless)\nUp to 20\n\nBattery Capacity (mAh, Typical)\n4400\n\nAudio Playback Time (Hours, Wireless)\nUp to 72\n\nTalk Time (4G LTE) (Hours)\nUp to 39
+    </string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Charisto Marc Gybran</string>
+    <string name="buy">Beli</string>
+    <string name="call_cs">Hubungi CS</string>
+    <string name="dummy_value">$1593,51</string>
+    <string name="dummy_photos">1 photos</string>
+    <string name="terima_kasih_telah_melakukan_pembelian">Terima kasih telah melakukan pembelian</string>
+    <string name="pembayaran_berhasil">Pembayaran Berhasil</string>
+    <string name="total_pembayaran">Total Pembayaran</string>
+    <string name="bagaimana_pengalaman_transaksi_anda">Bagaimana Pengalaman Transaksi Anda?</string>
+</resources>
